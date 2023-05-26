@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803187417439",
+    "project_id": "asurbi",
+    "storage_bucket": "asurbi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803187417439:android:4455b8c011982dd0b796ea",
+        "android_client_info": {
+          "package_name": "com.example.asubrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803187417439-tgsdhv3inhdsaemuh18nd7u6jed3g10b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMsQzHP7o44M38SdhkZ62aoWUc8lW_rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803187417439-tgsdhv3inhdsaemuh18nd7u6jed3g10b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
